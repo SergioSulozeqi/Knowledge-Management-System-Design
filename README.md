@@ -1,6 +1,6 @@
 # 🏢 Enterprise Knowledge Management & CRM Architecture (Case Study)
 
-> 🌐 **Live UI Mockup:** [View the Interactive Vercel Prototype](https://inserisci-qui-il-tuo-link.vercel.app)
+> 🌐 **Live UI Mockup:** [View the Interactive Vercel Prototype](https://intelligent-km.vercel.app)
 
 ![System Design](https://img.shields.io/badge/System_Design-Architecture-00599C?style=for-the-badge)
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-ROI_Calculation-239120?style=for-the-badge)
